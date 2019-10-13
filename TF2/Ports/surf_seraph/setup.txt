@@ -1,0 +1,5 @@
+sm_insertmap 5 4 1 "Cyber" 1 1;
+setpos -700 2270 2327; setang 0 270 0;
+sm_setspawn 1;
+setpos -3344 1512 6694; setang 0 270 0;
+sm_setbspawn 1;

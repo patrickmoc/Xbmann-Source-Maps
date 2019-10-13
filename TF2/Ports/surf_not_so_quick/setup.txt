@@ -1,0 +1,21 @@
+sm_insertmap 4 4 0 "Sam" 6 1
+setpos -15039 12288 14784; setang 0 0 0;
+sm_setspawn 1;
+setpos -128 -1216 1672; setang 0 0 0;
+sm_setspawn 2;
+setpos -12063 9568 1152; setang 0 0 0;
+sm_setspawn 3;
+setpos -6911 -10720 5776; setang 0 0 0;
+sm_setspawn 4;
+setpos -128 -1408 1672; setang 0 0 0;
+sm_setbspawn 1;
+setpos 6144 9664 -3584; setang 0 0 0;
+sm_setbspawn 2;
+setpos 5952 12736 14848; setang 0 0 0;
+sm_setbspawn 3;
+setpos -9185 14816 11433; setang 0 0 0;
+sm_setbspawn 4;
+setpos 9792 14976 15104; setang 0 0 0;
+sm_setbspawn 5;
+setpos 3897 5760 10240; setang 0 0 0;
+sm_setbspawn 6;

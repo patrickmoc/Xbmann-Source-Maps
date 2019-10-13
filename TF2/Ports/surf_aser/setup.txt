@@ -1,0 +1,15 @@
+sm_insertmap 1 6 0 "TruMatrix" 1 1
+setpos 11776 0 10520; setang 0 180 0;
+sm_setspawn 1;
+setpos 2208 0 9048; setang 0 180 0;
+sm_setspawn 2;
+setpos -4384 0 8152; setang 0 180 0;
+sm_setspawn 3;
+setpos 8480 0 5976; setang 0 0 0;
+sm_setspawn 4;
+setpos -2592 0 1368; setang 0 180 0;
+sm_setspawn 5;
+setpos 8736 0 -2216; setang 0 0 0;
+sm_setspawn 6;
+setpos 2624 0 -6656; setang 0 0 0;
+sm_setbspawn 1;

@@ -1,0 +1,7 @@
+sm_insertmap 3 5 1 "Sid" 2 1;
+setpos -14418 0 14899; setang 0 0 0;
+sm_setspawn 1;
+setpos -4302 5952 8167; setang 0 0 0;
+sm_setbspawn 1;
+setpos -4882 -6312 9803; setang 0 0 0;
+sm_setbspawn 2;

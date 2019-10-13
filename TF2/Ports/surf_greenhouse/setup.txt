@@ -1,0 +1,5 @@
+sm_insertmap 4 5 1 "Sagan" 1 1;
+setpos 0 0 256; setang 0 0 0;
+sm_setspawn 1;
+setpos -4746 -4993 -99; setang 0 0 0;
+sm_setbspawn 1;

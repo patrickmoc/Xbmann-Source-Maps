@@ -1,0 +1,7 @@
+sm_insertmap 2 2 0 "Mr. Cow" 1 1;
+setpos 0 -14784 13616 ; setang 0 90 0;
+sm_setspawn 1;
+setpos 0 -15296 -7632 ; setang 0 90 0;
+sm_setspawn 2;
+setpos 6144 -14720 1328 ; setang 0 90 0;
+sm_setbspawn 1;

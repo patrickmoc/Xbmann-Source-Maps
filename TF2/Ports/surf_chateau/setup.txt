@@ -1,0 +1,7 @@
+sm_insertmap 4 4 1 "hesuka" 2 1;
+setpos -14768 0 13696; setang 0 0 0;
+setspawn 1;
+setpos -6208 7552 12792; setang 0 0 0;
+setbspawn 1;
+setpos -12912 -7616 12560; setang 0 0 0;
+setbspawn 2;
