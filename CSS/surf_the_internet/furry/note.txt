@@ -1,1 +1,2 @@
-These are development files from a collaborative effort, most assets referenced by these vmfs can be found in the surf_the_internet bsp. These are from before all parts of the maps were combined
+These are development files from a collaborative effort, most assets referenced by these vmfs can be found in the surf_the_internet bsp. 
+These are from before all parts of the maps were combined.
